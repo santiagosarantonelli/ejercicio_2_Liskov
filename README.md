@@ -1,1 +1,1 @@
-# ejercicio_2_Liskov
+# Simple ejercicio continuando con principios SOLID, sustitución de Liskov
